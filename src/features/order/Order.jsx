@@ -10,7 +10,7 @@ import {
   formatDate,
 } from "../../utils/helpers";
 import { useEffect } from "react";
-import Updateorder from "./Updateorder";
+import Updateorder from "./UpdateOrder";
 
 function Order() {
   const order = useLoaderData();
